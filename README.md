@@ -158,11 +158,11 @@ from <b>brain*_t2.mnc </b> and  <b>brain*_labels.mnc</b> files.
 <br><br>
 <table border=1 style='border-collapse:collapse;' cellpadding='5'>
 <tr><th>Indexed Color</th><th>Color</th><th>RGB</th><th>Class</th></tr>
-<tr><td>1</td><td with='80' height='auto'><img src='./color_class_mapping/CA1.png' widith='40' height='25'></td><td>(255, 0, 0)</td><td>CA1</td></tr>
+<tr><td>1</td><td with='80' height='auto'><img src='./color_class_mapping/CA1.png' widith='40' height='25'></td><td>(0, 0, 255)</td><td>CA1</td></tr>
 <tr><td>2</td><td with='80' height='auto'><img src='./color_class_mapping/Subiculum.png' widith='40' height='25'></td><td>(0, 255, 0)</td><td>Subiculum</td></tr>
-<tr><td>3</td><td with='80' height='auto'><img src='./color_class_mapping/CA4-DG.png' widith='40' height='25'></td><td>(0, 0, 255)</td><td>CA4-DG</td></tr>
-<tr><td>4</td><td with='80' height='auto'><img src='./color_class_mapping/CA2-CA3.png' widith='40' height='25'></td><td>(255, 255, 0)</td><td>CA2-CA3</td></tr>
-<tr><td>5</td><td with='80' height='auto'><img src='./color_class_mapping/Stratum.png' widith='40' height='25'></td><td>(0, 255, 255)</td><td>Stratum</td></tr>
+<tr><td>4</td><td with='80' height='auto'><img src='./color_class_mapping/CA4-DG.png' widith='40' height='25'></td><td>(255, 0, 0)</td><td>CA4-DG</td></tr>
+<tr><td>5</td><td with='80' height='auto'><img src='./color_class_mapping/CA2-CA3.png' widith='40' height='25'></td><td>(255, 255, 0)</td><td>CA2-CA3</td></tr>
+<tr><td>6</td><td with='80' height='auto'><img src='./color_class_mapping/Stratum.png' widith='40' height='25'></td><td>(0, 255, 255)</td><td>Stratum</td></tr>
 </table>
 <br>
 <br>
