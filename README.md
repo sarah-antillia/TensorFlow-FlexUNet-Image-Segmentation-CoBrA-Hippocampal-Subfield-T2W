@@ -10,7 +10,7 @@ CoBrA-Hippocampus-Subfield-T2W-ImageMask-Dataset.zip</a>
 (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
 CC BY-NC-SA 4.0</a>), which was derived by us from <br><br>
 <a href="https://cobralab.net/files/brains_t2.tar.bz2">Hippocampus-subfields(T2-Weighted)</a></b>
-in <a href="<a href="http://cobralab.ca/atlases/Hippocampus-subfields/">MRI-Based Digital Brain Atlases</a> and 
+in <a href="http://cobralab.ca/atlases/Hippocampus-subfields/">MRI-Based Digital Brain Atlases</a> and 
 <br> 
 <a href="https://github.com/CoBrALab/atlases/tree/master/hippocampus-subfields"><b>hippocampus-subfields/labels</b></a> in 
 <a href="https://github.com/CoBrALab/atlases">
@@ -54,7 +54,7 @@ ground truth masks.
 <h3>1. Dataset Citation</h3>
 The dataset used here was taken from <br><br>
 <a href="https://cobralab.net/files/brains_t2.tar.bz2">Hippocampus-subfields(T2-Weighted)</a></b>
-in <a href="<a href="http://cobralab.ca/atlases/Hippocampus-subfields/">MRI-Based Digital Brain Atlases</a> and 
+in <a href="http://cobralab.ca/atlases/Hippocampus-subfields/">MRI-Based Digital Brain Atlases</a> and 
 <br>
 <a href="https://github.com/CoBrALab/atlases/tree/master/hippocampus-subfields"><b>hippocampus-subfields/labels</b></a> in 
 <a href="https://github.com/CoBrALab/atlases">
